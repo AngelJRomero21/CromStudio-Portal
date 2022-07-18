@@ -1,2 +1,4 @@
 # CromStudio-Portal
-Portal Web Crom Studio
+Portal de pagos y soporte tecnico de la empresa Crom Studio.
+-------------------------------------------------------------
+
